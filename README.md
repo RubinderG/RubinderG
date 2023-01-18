@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RubinderG
 - 👀 I’m interested in becoming a competent software developer.
-- 🌱 I’m currently learning HTML, CSS, Javascript and React
+- 🌱 I’m currently learning HTML, CSS, Javascript, React, GCP, CI/CD, Linux, Groovy and Python. 
 - 💞️ I’m looking to collaborate and expand my knowledge
 - 📫 How to reach me @Rubinder@hotmail.com
 
